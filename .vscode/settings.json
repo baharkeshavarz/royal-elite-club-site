@@ -1,0 +1,24 @@
+{
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "eslint.nodePath": ".yarn/sdks",
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": [
+    "Giftcard",
+    "hookform",
+    "Jalali",
+    "mellat",
+    "Tanstack",
+    "Toastify",
+    "الیت",
+    "اینستاگرام",
+    "اینماد",
+    "پذیرندگان",
+    "پذیرندگی",
+    "قرارداد",
+    "لینکدین"
+  ]
+}

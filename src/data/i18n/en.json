@@ -1,0 +1,378 @@
+{
+  "siteInfo": {
+    "title": "باشگاه تخفیفی  رویال الیت"
+  },
+  "confirmAlert": {
+    "title": "آیا مطمئن هستید؟"
+  },
+  "messages": {
+    "notFound": "صفحه مورد نظر یافت نشد."
+  },
+  "stringSeparator": ",",
+  "header": {
+    "auth": {
+      "login": "ورود",
+      "register": "درخواست عضویت",
+      "myAccount": "حساب کاربری من",
+      "myProfile": "پروفایل من",
+      "logout": "خروج از حساب کاربری",
+      "myCredit": "اعتبار رویال کلاب",
+      "myCreditPoint": "ریال"
+    },
+    "navigation": {
+      "home": "رویال الیت",
+      "merchantRequest": "درخواست پذیرندگی",
+      "merchant": "لیست پذیرندگان",
+      "faq": "سوالات متداول",
+      "aboutUs": "درباره ما",
+      "contactUs": "تماس با ما",
+      "terms": "قوانین و مقررات",
+      "takeLoan": "درخواست وام"
+    },
+    "search": {
+      "placeholder": "جستجو ...."
+    }
+  },
+  "buttons": {
+    "return": "بازگشت",
+    "yes": "بله",
+    "no": "خیر",
+    "removeAll": "پاک کردن همه",
+    "select": "انتخاب",
+    "returnHome": " بازگشت به خانه",
+    "seeAll": "مشاهده همه",
+    "see": "مشاهده",
+    "filters": "فیلترها",
+    "operation": "عملیات",
+    "refresh": "به روز رسانی",
+    "reset": "پاک کردن",
+    "submitFilters": "اعمال فیلترها",
+    "submit": "ثبت",
+    "detail": "جزئیات",
+    "edit": "ویرایش",
+    "delete": "حذف"
+  },
+  "footer": {
+    "copyright": "تمامی حقوق این وبسایت متعلق به رویال الیت می باشد.",
+    "aboutElite": "باشگاه رویال الیت یک پلتفرم دیجیتال است که اعضای آن یعنی دارندگان کارتهای بانکی و پذیرندگان آن یعنی فروشگاهها، شرکت ها و ارائه دهندگان کالا یا خدمات را به یکدیگر متصل می کند."
+  },
+  "pages": {
+    "merchantRequest": {
+      "sections": {
+        "merchantRequestRules": "قوانین و مقررات درخواست پذیرندگان",
+        "bankInformation": "اطلاعات حساب بانکی",
+        "businessLocation": "اطلاعات محل کسب و کار",
+        "sites": "سایت ها",
+        "socialMedia": "شبکه های اجتماعی",
+        "description": "توضیحات",
+        "businessInformation": "اطلاعات کسب و کار",
+        "ownerInformation": "اطلاعات مالک",
+        "ceoInformation": "اطلاعات مدیر عامل",
+        "agentInformation": "اطلاعات نماینده"
+      },
+      "fields": {
+        "accountNumber": "شماره حساب بانک ملت",
+        "terminalNumber1": "پایانه پرداخت اول (به پرداخت ملت)",
+        "terminalNumber2": "پایانه پرداخت دوم (به پرداخت ملت)",
+        "terminalNumber3": "پایانه پرداخت سوم (به پرداخت ملت)",
+        "website1": "آدرس سایت اول",
+        "website2": "آدرس سایت دوم",
+        "website3": "آدرس سایت سوم",
+        "agentFullName": "نام و نام خانوادگی نماینده",
+        "agentPhoneNumber": "شماره موبایل نماینده",
+        "ceoFullName": "نام و نام خانوادگی مدیر عامل",
+        "ceoNationalCode": "کد ملی مدیر عامل",
+        "ceoPhoneNumber": "شماره موبایل مدیر عامل",
+        "economicNumber": "شماره اقتصادی",
+        "trackingCode": "کد رهگیری"
+      },
+      "messages": {
+        "enterType": "به منظور تکمیل اطلاعات مورد نیاز، خواهشمند است نوع شخصیت خود را مشخص فرمایید. لطفاً یکی از گزینه‌های زیر را انتخاب نمایید سپس روی دکمه ادامه کلیک کنید.",
+        "confirm": "درخواست شما با موفقیت ارسال شد",
+        "acceptAboveRules": "مقررات فوق را می پذیرم"
+      },
+      "buttons": {
+        "registerRequest": "ثبت درخواست"
+      }
+    },
+    "home": {
+      "header": {
+        "slogan": "باشگاه رویال الیت از طریق تعامل با پذیرندگان به افزایش قدرت خرید اعضا و توانمندسازی آنان کمک می کند.",
+        "shortSlogan": " هوادار شما هستیم"
+      },
+      "advertisement": {
+        "title1": "مزیت های رقابتی رویال الیت",
+        "title2": "با رویال الیت فروش بیشتری خواهید داشت",
+        "cards": {
+          "card1": "تخفیف آنلاین در زمان خرید ",
+          "card2": "عضویت پذیرندگان و اشخاص بدون هزینه اولیه",
+          "card3": "استفاده از زیرساختهای تخفیفی شرکت شقایق بانک ملت",
+          "card4": "امکان اخذ گزارش تخفیف ها",
+          "card5": "انجام تبلیغات گسترده برای پذیرنده"
+        }
+      },
+      "merchant": {
+        "categories": " خرید بر اساس دسته‌بندی",
+        "title": " فروشگاه های برتر (پیشنهاد ویژه)",
+        "comment": "با رویال الیت به تمام فروشگاه های معتبر دسترسی پیدا می کنید"
+      },
+      "instructions": {
+        "merchant": {
+          "title": "عضویت دارندگان کارت:",
+          "steps": {
+            "step1": "1. مراجعه به سایت رویال الیت به آدرس www.royalelite.club و ثبت درخواست عضویت",
+            "step2": "2. ورود اطلاعات فردی",
+            "step3": "3. مراجعه به فروشگاههای طرف قرارداد طرح",
+            "step4": "4. انجام تراکنش و اخذ تخفیف در لحظه"
+          }
+        },
+        "users": {
+          "title": "عضویت پذیرندگان:",
+          "steps": {
+            "step1": "1. مراجعه به سایت رویال الیت به آدرس www.royalelite.club و تکمیل فرم پذیرندگی",
+            "step2": "2. انعقاد قرارداد فی مابین رویال الیت و پذیرنده",
+            "step3": "3. آماده سازی پایانه پذیرنده از سوی رویال الیت"
+          }
+        }
+      }
+    },
+    "login": {
+      "title": "ورود",
+      "hello": "سلام!",
+      "message": "لطفا شماره موبایل خود را وارد نمایید",
+      "buttons": {
+        "login": "ورود",
+        "getTheCode": "دریافت کد"
+      },
+      "phoneNumber": "شماره موبایل",
+      "confirmCode": "تایید شماره موبایل",
+      "acceptRule": " ورود شما به معنای پذیرش شرایط و قوانین سایت",
+      "acceptRuleEnd": "است"
+    },
+    "register": {
+      "title": "ثبت نام",
+      "message": "لطفا شماره موبایل و کد ملی خود را وارد نمایید",
+      "hasAccount": "حساب کاربری دارید؟",
+      "hasNoAccount": "حساب کاربری ندارید؟",
+      "buttons": {
+        "register": "ثبت نام"
+      },
+      "phoneNumber": "شماره موبایل",
+      "nationalCode": "کد ملی",
+      "messages": {
+        "phoneNumber": "شماره موبایل خود را وارد نمایید",
+        "nationalCode": " کد ملی خود را وارد نمایید"
+      }
+    },
+    "confirm": {
+      "title": "تایید کد",
+      "enterCodeMessage": "کد ارسال شده به شماره موبایل {phoneNumber} را وارد نمایید",
+      "buttons": {
+        "edit": "ویرایش",
+        "sendAgain": "ارسال مجدد"
+      },
+      "messages": {
+        "onlyNumberIsValid": "فقط وارد کردن اعداد مجاز است."
+      },
+      "fields": {
+        "code": "کد"
+      },
+      "sendAgainText": "تا ارسال مجدد",
+      "seconds": "ثانیه"
+    },
+    "error": {
+      "message": "خطایی رخ داده است.",
+      "buttons": {
+        "reset": "تلاش مجدد!"
+      }
+    },
+    "aboutUs": {
+      "title": " رویال الیت را بشناسیم"
+    },
+    "contactUs": {
+      "connectionTitle": " راه های ارتباطی با ما",
+      "contactInfo": {
+        "phoneTitle": " تلفن پشتیبانی",
+        "phoneDescription": "09107550870",
+        "emailTitle": "ایمیل",
+        "emailDescription": "info@royalelite.club",
+        "instagramTitle": "اینستاگرام",
+        "instagramDescription": "https://instagram.com/royal.eliteclub",
+        "instagramLabel": "royal.eliteclub"
+      },
+      "contactSupport": {
+        "title": "ما اینجا هستیم تا به شما کمک کنیم",
+        "faqTitle": "بیشتر سوالات را پاسخ داده‌ایم!",
+        "faqDescription": " سوالات پر تکرار را بخوانید",
+        "callTitle": " پشتیبانی تلفنی",
+        "callDescription": "تماس بگیرید"
+      }
+    },
+    "merchant": {
+      "activityType": "نوع فعالیت",
+      "removeFilters": "حذف فیلترها",
+      "noData": " پذیرنده ای یافت نشد",
+      "details": {
+        "buyTypeStore": "خرید از فروشگاه",
+        "category": "دسته بندی",
+        "tabs": {
+          "description": "توضیحات",
+          "branches": "شعبه های پذیرنده",
+          "contactInfo": "تماس با پذیرنده "
+        }
+      }
+    },
+    "landing": {
+      "requestLoan": "ثبت درخواست",
+      "jetVamRequest": "ثبت درخواست وام طرح جت وام"
+    }
+  },
+  "common": {
+    "buttons": {
+      "continue": "ادامه",
+      "gotIt": "متوجه شدم",
+      "noData": "داده ای یافت نشد",
+      "acceptRules": "شرایط و قوانین را میپذیرم."
+    },
+    "currency": {
+      "rial": "ریال"
+    },
+    "fields": {
+      "rowNumber": "ردیف",
+      "postalCode": "کد پستی",
+      "address": "نشانی",
+      "instagram": "اینستاگرام",
+      "telegram": "تلگرام",
+      "x": "شبکه اجتماعی اکس",
+      "linkedin": "لینکدین",
+      "facebook": "فیسبوک",
+      "description": "توضیحات",
+      "storeName": "نام فروشگاه",
+      "businessLicenseNumber": "شماره پروانه کسب",
+      "classOfActivity": "صنف فعالیت",
+      "branchCount": "تعداد شعب",
+      "activityType": "نوع فعالیت",
+      "businessHistory": "سابقه فعالیت کسب و کار",
+      "ownerFullName": "نام و نام خانوادگی مالک",
+      "ownerNationalCode": "کد ملی مالک",
+      "ownerPhoneNumber": "شماره موبایل مالک",
+      "telephoneNumber": "تلفن ثابت",
+      "email": "پست الکترونیک",
+      "companyName": "نام شرکت",
+      "brandName": "نام برند",
+      "legal": "حقوقی",
+      "natural": "حقیقی",
+      "count": "مورد",
+      "website": "وب سایت"
+    },
+    "messages": {
+      "toast": {
+        "copied": "کپی شد"
+      },
+      "error": {
+        "generalError": "خطایی رخ داده است"
+      }
+    }
+  },
+  "dashboard": {
+    "profile": {
+      "fields": {
+        "firstName": "نام",
+        "lastName": "نام خانوادگی",
+        "birthDate": "تاریخ تولد",
+        "gender": "جنسیت ",
+        "favoriteCategories": "دسته بندی های مورد علاقه من",
+        "entertainment": "سرگرمی های من",
+        "postalCode": "کد پستی",
+        "province": "استان",
+        "city": "شهر",
+        "address": "آدرس",
+        "education": "تحصیلات",
+        "job": "شغل",
+        "income": "میزان درآمد ماهانه"
+      }
+    },
+    "card": {
+      "cardListTitle": "لیست کارت های بانکی من",
+      "addCardDialogTitle": "افزودن کارت جدید",
+      "buttons": {
+        "addCard": "افزودن"
+      },
+      "fields": {
+        "cardNumber": "شماره کارت",
+        "bankType": "انتخاب بانک",
+        "bankName": "نام بانک"
+      },
+      "messages": {
+        "noData": " هنوز کارت بانکی ثبت نشده است"
+      }
+    },
+    "coupon": {
+      "listTitle": "کدهای تخفیف",
+      "listSubtitle": "با انتخاب کد تخفیف مورد نظر خود، می توانید از تخفیف های متنوعی برخوردار شوید.",
+      "couponDialogTitle": "اطلاعات کد تخفیف شما",
+      "fields": {
+        "logo": "لوگو",
+        "name": "عنوان",
+        "expiryDate": "تاریخ اعتبار",
+        "code": "کد تخفیف",
+        "description": "توضیحات",
+        "couponValue": "مقدار تخفیف",
+        "ceilingAmount": "حداکثر مبلغ تخفیف",
+        "minimumAmount": "حداقل مبلغ خرید",
+        "partner": "نام سرویس دهنده",
+        "discountAmount": "میزان تخفیف"
+      },
+      "messages": {
+        "successfulCode": "کاربر گرامی، کد تخفیف شما با موفقیت دریافت شد!"
+      },
+      "buttons": {
+        "getTheCode": "دریافت کد تخفیف"
+      }
+    },
+    "ticket": {
+      "addDialogTitle": "ثبت درخواست پشتیبانی جدید",
+      "ticketDetails": "جزئیات درخواست پشتیبانی",
+      "fields": {
+        "message": "توضیحات",
+        "type": "نوع درخواست",
+        "trackingCode": "کد رهگیری",
+        "response": "پاسخ",
+        "status": "وضعیت",
+        "createDate": "تاریخ ایجاد",
+        "fromDate": "از تاریخ",
+        "toDate": "تا تاریخ"
+      },
+      "messages": {
+        "noData": "درخواست پشتیبانی یافت نشد"
+      }
+    },
+    "transaction": {
+      "fields": {
+        "amount": "مبلغ(ریال)",
+        "merchantName": "نام پذیرنده",
+        "description": "توضیحات",
+        "transactionDate": "تاریخ تراکنش",
+        "fromTransactionDate": "تاریخ تراکنش از",
+        "toTransactionDate": "تاریخ تراکنش تا"
+      }
+    },
+    "navigation": {
+      "myProfile": "پروفایل من",
+      "myCoupons": "لیست کدهای تخفیف  من",
+      "myCards": "کارت های بانکی من",
+      "myTicket": "درخواست های پشتیبانی من",
+      "myTransaction": "تراکنش های من"
+    },
+    "facility": {
+      "fields": {
+        "collateralNumber": "شماره چک صیادی (16رقم)",
+        "collateralDate": "تاریخ چک",
+        "collateralIssuerBank": "بانک صادرکننده",
+        "chequeSeri": "شماره سری",
+        "chequeSerial": "شماره سریال",
+        "chequeAmount": "مبلغ چک"
+      }
+    }
+  }
+}
